@@ -1,0 +1,22 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="PackSimpleSoundRecorderJavaFX">
+    <output-path>$PROJECT_DIR$/out/artifacts/PackSimpleSoundRecorderJavaFX</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="simplesoundrecorderjavafx.start.Main" />
+        <option name="description" value="" />
+        <option name="htmlParamFile" value="" />
+        <option name="nativeBundle" value="all" />
+        <option name="paramFile" value="" />
+        <option name="title" value="Test" />
+        <option name="vendor" value="" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="PackSimpleSoundRecorderJavaFX.jar">
+        <element id="module-output" name="PackSimpleSoundRecorderJavaFX" />
+        <element id="library" level="project" name="TarsosDSP-latest" />
+      </element>
+    </root>
+  </artifact>
+</component>

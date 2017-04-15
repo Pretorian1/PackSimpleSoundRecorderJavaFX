@@ -1,0 +1,26 @@
+
+.root {
+    /*-fx-background: #35B55C;*/
+    -fx-background-color: #41317a;
+}
+
+*{
+    -fx-font-family: 'Varela Round';
+    -fx-alignment: center;
+    -fx-text-fill: #fff;
+}
+#mainButton{
+    -fx-background-color: #dc143c;
+    -fx-font-size: 17px;
+}
+/*#mainButton:pressed{
+    -fx-background-color: #35B55C;
+    -fx-text-fill: #1d1d1d;
+}*/
+
+#mainLabel{
+    -fx-font-size: 34px ;
+ /*   -fx-background-color: #E61610;
+    -fx-border-width: 1;
+    -fx-border-color: white;*/
+}
